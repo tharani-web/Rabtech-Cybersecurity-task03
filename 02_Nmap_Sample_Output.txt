@@ -1,0 +1,15 @@
+SIMULATED / SAMPLE OUTPUT — NOT REAL SCAN EVIDENCE
+
+Nmap 7.95 scan initiated
+Nmap scan report for authorized-training-host
+Host is up (0.0010s latency).
+
+PORT     STATE  SERVICE  VERSION
+22/tcp   open   ssh      OpenSSH 9.2
+80/tcp   open   http     Apache httpd 2.4
+443/tcp  open   https    Apache httpd 2.4
+
+Service detection performed.
+Nmap done: 1 IP address (1 host up) scanned.
+
+NOTE: This is illustrative sample output only.
